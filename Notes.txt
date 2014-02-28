@@ -1,0 +1,38 @@
+Notes on Urban Data Hackathon 2/22/14
+
+--Living Innovation Zones
+	-active, lively location
+	-place where people will pause to experience the canvas
+
+	- social furnature? + dynamic theatrical experience + data visualization
+
+	- tender noise project for GAFFTA -- displayed online, not in public
+
+	- social seating (Sent Forth by Arup) at Fort Mason
+
+Casey Reas - Processing
+	- Audience: general, people walking down street -- some may stop and interact with piece + online viewers
+	- Experience: map, or game, or documentary, or... narative based, or story based? or non-linear?
+			- how long will people interact with piece, a minute, longer?
+			- social interaction?
+	-Platform:
+		-scale of visual experience with the body, large scale
+		-how much data can we show on a big screen
+		-light and day/night
+		-Hardware - what are limitations? how much data can be processed? Resolution of screen
+		- how is data delivered?
+
+Urban Corridor
+	- air quality - measure along market -- data
+	- hyper local urban data visualization --> inspire regulating feedback loop for citizens 
+	- we can see things coming and take action in due time
+
+	processing.org recommended
+	can assume touch screen and mouse user input. 
+
+	upload project folder with distrinctive name, source & export with stop button (for Mac OSX)
+
+	
+
+
+
