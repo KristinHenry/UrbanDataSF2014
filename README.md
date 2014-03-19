@@ -2,7 +2,9 @@ UrbanDataSF2014
 ===============
 
 On February 22nd, 2014, I took part in a the Urban Data Challenge Hackathon in San Francisco.
-Other members of the team included Jesse Day, Skott Kildall, Karen Marcelo, Eric Socolfsky
+Other members of the team included Jesse Day, Skott Kildall, Karen Marcelo, Eric Socolfsky. 
+
+As a team, we won 2nd place, and went on to the interview process to be considered for the final award. 
 
 I've included here, my code for reshaping the data as we recieved it into a flat and more compressed format, with a flattened version of the data in a csv file. 
 
